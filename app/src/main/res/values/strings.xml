@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CartApp</string>
+    <string name="Label">Cart</string>
+    <string name="remove_item">remove\n</string>
+    <string name="add_item">add_item</string>
+    <string name="product_image" />
+
+    <string name="view_cart">View cart</string>
+
+    <string name="item_count">%1$d ITEM%2$s</string>
+    <string name="total_price">₹%.2f</string>
+
+
+</resources>
